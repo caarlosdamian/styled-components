@@ -11,8 +11,8 @@ export default styled.button`
   border: 2px solid ${(props) => props.theme.borderColor};
   cursor: pointer;
   &:hover {
-    background-color: black;
-    color: red;
+    background-color: #9FE8CC;
+    color: gray;
     transition: all 0.2s;
   }
 `;
